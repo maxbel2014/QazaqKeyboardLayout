@@ -1,5 +1,5 @@
 # QazaqKeyboardLayout
 
 dist-ornatuǵa qajetti faildar  
-images-pernetaqtanyń beinesi  
+images-pernetaqtanyń beınesi  
 src-baǵdarlamany ázirleúge qajetti fail  
